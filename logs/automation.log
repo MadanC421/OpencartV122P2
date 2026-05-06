@@ -1,0 +1,27 @@
+04:42:51.910 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml"
+04:42:58.246 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+04:42:58.616 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+04:42:59.661 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+04:42:59.665 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+04:43:03.744 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+04:43:03.811 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+04:43:08.035 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+04:43:11.314 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
+05:00:48.999 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml"
+05:00:53.746 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+05:00:54.051 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+05:00:55.148 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+05:00:55.153 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+05:00:58.970 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+05:00:59.018 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+05:01:03.307 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+05:01:06.893 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
+05:22:01.231 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml"
+05:22:06.448 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+05:22:06.696 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+05:22:07.602 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+05:22:07.610 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+05:22:11.218 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+05:22:11.265 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+05:22:17.187 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+05:22:21.503 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********

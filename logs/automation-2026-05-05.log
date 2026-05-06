@@ -1,0 +1,61 @@
+17:01:21.914 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml"
+17:01:22.139 [main] INFO  org.testng.internal.Utilss - [TestNG] Running:
+  C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml
+
+17:01:32.046 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+17:01:32.351 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+17:01:33.195 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+17:01:33.197 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+17:01:36.767 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+17:01:36.873 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+17:01:41.204 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+17:01:44.458 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
+17:07:54.621 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml"
+17:07:55.057 [main] INFO  org.testng.internal.Utilss - [TestNG] Running:
+  C:\Users\madan\eclipse-workspace2\OpencartV122P2\master.xml
+
+17:08:01.535 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+17:08:01.789 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+17:08:02.699 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+17:08:02.704 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+17:08:05.658 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+17:08:05.736 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+17:08:10.604 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+17:08:13.716 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
+17:09:28.705 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\crossbrowsertesting.xml"
+17:09:28.915 [main] INFO  org.testng.internal.Utilss - [TestNG] Running:
+  C:\Users\madan\eclipse-workspace2\OpencartV122P2\crossbrowsertesting.xml
+
+17:09:33.030 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+17:09:33.398 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+17:09:34.192 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+17:09:34.197 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+17:09:37.352 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+17:09:37.413 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+17:09:44.598 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+17:09:44.813 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+17:09:45.722 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+17:09:45.724 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+17:09:48.374 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+17:09:48.421 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+17:09:48.773 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+19:20:29.301 [main] DEBUG org.testng.TestNGs - suiteXmlPath: "C:\Users\madan\eclipse-workspace2\OpencartV122P2\grid-docker.xml"
+19:20:29.591 [main] INFO  org.testng.internal.Utilss - [TestNG] Running:
+  C:\Users\madan\eclipse-workspace2\OpencartV122P2\grid-docker.xml
+
+19:20:37.097 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+19:20:37.351 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+19:20:38.165 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+19:20:38.170 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+19:20:41.968 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+19:20:42.041 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+19:20:46.078 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+19:20:49.622 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
+19:20:58.790 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Starting TC001_AccountRegistrationTest***************************
+19:20:58.977 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on MyAccount Link
+19:21:00.425 [main] INFO  testCases.TC001_AccountRegistrationTests - Clicked on Register Link
+19:21:00.429 [main] INFO  testCases.TC001_AccountRegistrationTests - Providing Customers details....
+19:21:00.924 [main] INFO  testCases.TC001_AccountRegistrationTests - Validation expected message....
+19:21:04.506 [main] INFO  testCases.TC001_AccountRegistrationTests - ************Finished TC001_AccountRegistrationTest***************************
+19:21:12.890 [main] INFO  testCases.TC002_LoginTests - ************Starting TC002_LoginTest***********
+19:21:15.507 [main] INFO  testCases.TC002_LoginTests - ************Finished TC002_LoginTest***********
